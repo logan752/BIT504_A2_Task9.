@@ -2,7 +2,7 @@
 public class HelloWorldExample {
 
 	public static void main(String[] args) {
-		//First minor change 0.2
+		//minor change 0.3
 		System.out.println("Hello, World!");
 		
 	}
